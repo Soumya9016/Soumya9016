@@ -24,4 +24,4 @@ Connect With Me
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,bootstrap,react,git,github,vscode,eclipse" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=36BCF7&center=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Open+to+Work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=36BCF7&center=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Open+to+Work)](https://git.io/typing-svg) 
