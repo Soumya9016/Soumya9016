@@ -15,3 +15,11 @@ Connect With Me
 - 🎯 Long-term goal: Grow into a versatile full-stack developer
   
 -⚡ Fun fact: I enjoy blending technical precision with creative design — whether it’s coding a table program or styling a resume!
+
+
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,bootstrap,react,git,github,vscode,eclipse" />
+</p>
