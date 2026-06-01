@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm Soumya! 
 
-<!--
-**Soumya9016/Soumya9016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Connect With Me
+- LinkedIn: https://www.linkedin.com/in/soumya-ranjan-tripathy-a0123a360
+- Email: soumyaranjan834@gmail.com
 
-Here are some ideas to get you started:
+💻 Aspiring Full-Stack Developer | Computer Science Graduate 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently sharpening my skills in Java, C, HTML/CSS, Bootstrap, React, Spring Boot 
+- 🛠 Experienced in building structured layouts, navigation bars, forms, and tables with creative design 
+- 🔍 Passionate about debugging, input validation, and writing assignment-style coding challenges 
+- 📚 Love learning step-by-step, experimenting with code, and sharing knowledge in both English and Hindi
+- 🤝 Collaborative spirit: enjoy helping peers with resume formatting, ATS optimization, and professional presentation 
+- 🚀 Short-term goal: Launch my personal portfolio website showcasing projects and skills 
+- 🎯 Long-term goal: Grow into a versatile full-stack developer
+  
+-⚡ Fun fact: I enjoy blending technical precision with creative design — whether it’s coding a table program or styling a resume!
